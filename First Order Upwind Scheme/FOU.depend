@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510079726 source:f:\cfdproject\fou\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<stdio.h>
+	<fstream>
+
